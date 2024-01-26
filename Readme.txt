@@ -1,2 +1,2 @@
 Bienvenidos a mi portfolio :)
-https://camo.githubusercontent.com/b96309bf85d11d89bc87888f3e186aa034dcf77c0b84a14a7cf2189cb5da0ebc/68747470733a2f2f692e706f7374696d672e63632f313564534678484d2f70726f6772616d616e65746175746e2e676966
+[![programanetautn.gif](https://i.postimg.cc/15dSFxHM/programanetautn.gif)](https://postimg.cc/TpnB84BW)
