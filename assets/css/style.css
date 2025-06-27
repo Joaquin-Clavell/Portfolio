@@ -1215,6 +1215,35 @@ tu-proyecto/
   background: #15bb62;
 }
 
+.services {
+  padding: 60px 0;
+}
+.icon-box {
+  background: #000000;
+  border-radius: 8px;
+  padding: 25px;
+  text-align: left;
+  box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+  transition: transform 0.3s;
+  height: 100%;
+}
+.icon-box:hover {
+  transform: translateY(-8px);
+}
+.icon-box .icon i {
+  font-size: 2.5rem;
+  color: #15bb62;
+  margin-bottom: 15px;
+}
+.icon-box h4 {
+  font-size: 1.25rem;
+  margin-bottom: 12px;
+}
+.icon-box p {
+  color: #7a7a7a;
+  line-height: 1.6;
+}
+
 @keyframes animate-loading {
   0% {
     transform: rotate(0deg);
