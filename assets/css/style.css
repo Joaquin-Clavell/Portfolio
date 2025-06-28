@@ -1244,6 +1244,7 @@ tu-proyecto/
   line-height: 1.6;
 }
 
+
 @keyframes animate-loading {
   0% {
     transform: rotate(0deg);
